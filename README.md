@@ -15,9 +15,6 @@ The project involves several components:
 
 Overall, the project aims to provide users with a helpful and informative chatbot companion for addressing their health-related inquiries and promoting healthy living practices.
 
-## Project Background
-
-This project was made as a part of Data Science Training and Internship Program from ACM Students Chapter IIT Dhanbad 2024-25.
 
 
 ## Demo
